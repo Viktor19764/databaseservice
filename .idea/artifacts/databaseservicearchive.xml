@@ -4,7 +4,7 @@
     <root id="archive" name="databaseservicearchive.war">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="demotest" />
+          <element id="module-output" name="databaseservice" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: avalon-framework:avalon-framework:4.1.3" />
